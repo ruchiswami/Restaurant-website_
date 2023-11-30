@@ -1,0 +1,136 @@
+//<script>
+bouncex.init1Response({
+    "brand_styles": false,
+    "webfonts": false,
+    "cookie": {
+        "did": "3190690950057238115",
+        "vid": 1684183882752323,
+        "v": {
+            "submitted_onsite": false,
+            "ever_logged_in": false,
+            "submitted_email_backchannel": false,
+            "submitted_email_gadgetlabs": false,
+            "submitted_email_games": false,
+            "submitted_email_transport": false,
+            "submitted_email_techintwo": false,
+            "submitted_email_science": false,
+            "submitted_email_deals": false,
+            "submitted_email_daily": false,
+            "ccpa_cali": "true",
+            "reg_gate_submitted": false,
+            "reg_gate_url": "false",
+            "submitted_email_podcasts": false,
+            "barrier_link_click": "false",
+            "barrier_timestamp": false,
+            "barrier_seen_month": "false"
+        },
+        "fvt": 1684183882,
+        "ao": 0,
+        "lp": "https%3A%2F%2Fwww.wired.com%2F2016%2F11%2Fuse-google-maps-plan-awesome-vacation%2F",
+        "as": 0,
+        "vpv": 1,
+        "d": "d",
+        "r": "www.google.com",
+        "cvt": 1684183882,
+        "sid": -1,
+        "gcr": 34,
+        "m": 0,
+        "lvt": 1684183882,
+        "rcs_google.": 1
+    },
+    "debug": false,
+    "testmode": {
+        "bxtest": false,
+        "office": false,
+        "bxdev": false
+    },
+    "state": {
+        "newvid": true,
+        "iol": true,
+        "tn": 1684183882,
+        "pvid": 1,
+        "gdpr": false,
+        "casl": false,
+        "device": {
+            "browser": "Chrome",
+            "version": "113.0.0.0",
+            "platform": "Windows 10",
+            "device_type": "desktop"
+        },
+        "no_kinesis": true,
+        "request_token": "8b735d2acd30ceda89e086b8cd923cb91a0aae9cc2b2cb1b6822c8b5faa445cf",
+        "mobile": false,
+        "vip": "180.188.248.30",
+        "geo": {
+            "country": "IN",
+            "country_code": "IN",
+            "country_code3": "IND",
+            "country_name": "India",
+            "region": "PB",
+            "region_name": "Punjab",
+            "city": "Mohali",
+            "postal_code": "140306",
+            "zip": "140306",
+            "area_code": "",
+            "dma_code": null,
+            "metro_code": null,
+            "continent_code": "AS",
+            "google": {
+                "zip": "",
+                "country": "IN",
+                "country_code": "IN",
+                "region": "PB",
+                "city": "Ludhiana",
+                "continent_code": "AS",
+                "country_name": "India",
+                "region_name": "Punjab"
+            }
+        }
+    },
+    "gbi_stacks": false,
+    "creatives": false,
+    "campaigns": false,
+    "gbi2_enabled": false,
+    "ssp_config": {
+        "index": {
+            "s": "507847",
+            "qa_site_id": 167884,
+            "reload": 300000,
+            "stackWeight": 0,
+            "timeout": 2000,
+            "production": true,
+            "jsonp": true,
+            "ssp_priority": 2
+        },
+        "pbm": {
+            "desktop_id": "736989",
+            "mobile_id": "736990",
+            "publisher_id": "156512",
+            "qa_site_id": "248764",
+            "reload": 300000,
+            "timeout": 2000,
+            "endpoint": "hbopenbid.pubmatic.com\/translator?",
+            "user_sync_endpoint": "ads.pubmatic.com\/AdServer\/js\/user_sync.html",
+            "ssp_priority": 1
+        },
+        "bsw": {
+            "endpoint": "https:\/\/ssp.behave.com\/ad_page",
+            "qa_site_id": "1344",
+            "reload": "900000",
+            "site_id": "1335",
+            "ssp_priority": 4
+        }
+    },
+    "push_filepath": "\/",
+    "sms_enabled": false,
+    "sms_terms_conditions_link": "",
+    "sms_short_codes": [],
+    "brand_name": "",
+    "ads_config": {
+        "freqCapEnabled": false
+    },
+    "visit_cookie_updates": {
+        "is_go_session": true,
+        "is_gp_session": false
+    }
+});
